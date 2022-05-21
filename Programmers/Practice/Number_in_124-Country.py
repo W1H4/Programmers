@@ -8,7 +8,6 @@ def notation(m, x):
         m = m // x
     return tmp
 
-
 # 3진수를 124나라의 숫자로 바꿈
 def change(x):
     x = x.replace("2", "4")
