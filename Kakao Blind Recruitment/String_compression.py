@@ -29,16 +29,16 @@ def solution(s):
 test case
 """
 string1 = "aabbaccc"
-print('solution = ', solution(string1))
+print('ans1 :', solution(string1))
 
 string2 = "ababcdcdababcdcd"
-print('solution = ', solution(string2))
+print('ans1 :', solution(string2))
 
 string3 = "abcabcdede"
-print('solution = ', solution(string3))
+print('ans1 :', solution(string3))
 
 string4 = "abcabcabcabcdededededede"
-print('solution = ', solution(string4))
+print('ans1 :', solution(string4))
 
 string5 = "xababcdcdababcdcd"
-print('solution = ', solution(string5))
+print('ans1 :', solution(string5))
