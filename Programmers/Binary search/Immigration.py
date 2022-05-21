@@ -1,5 +1,6 @@
 import math
 
+
 def solution(n, times):
     max_ans = max(times) * n - len(times) + 1 # 이진 탐색의 최대 범위
     target = math.ceil(max_ans / 2) # 이진 탐색에서 선택하는 임의 값
