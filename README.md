@@ -1,11 +1,9 @@
 # Programmers
----
 * [Lv. 2] 연습문제 : 124 나라의 숫자
 
 
 
 # KAKAO BLIND RECRUITMENT
----
 ## 2021
 * [Lv. 1] 신규 아이디 추천 
 ## 2020
@@ -18,11 +16,9 @@
 
 
 # Dev-Matching
----
 * [Lv. 1] 2021 : 로또의 최고 순위와 최저 순위
 
 
 # Summer/Winter Coding
----
 ## 2019
 * [Lv. 2] 멀쩡한 사각형
