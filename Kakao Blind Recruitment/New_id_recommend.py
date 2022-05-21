@@ -1,6 +1,5 @@
 import re
 
-
 def solution(new_id):
     # step 1
     answer = new_id.lower()
