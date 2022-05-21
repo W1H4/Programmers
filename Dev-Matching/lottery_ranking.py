@@ -17,6 +17,7 @@ def solution(lottos, win_nums):
         answer = [rank - zero_count, rank]
     return answer
 
+
 """
 test case
 
