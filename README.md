@@ -21,7 +21,7 @@ __깊이/너비 우선 탐색(DFS/BFS)__
 * [Lv. 2] 타겟 넘버
 * [Lv. 3] 네트워크
 
-__이분탐색(Binaray Search)__
+__이분탐색(Binary Search)__
 * [Lv. 3] 입국심사
 
 __그래프(Graph)__
