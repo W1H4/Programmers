@@ -15,6 +15,7 @@ __스택/큐(Stack/Queue)__
 __힙(Heap)__
 * [Lv. 2] 더 맵게 : More_spicy.py
 * [Lv. 3] 디스크 컨트롤러 : Disk_controller.py
+* [Lv. 3] 이중우선순위큐 : Double_priority_queue.py
 
 __동적계획법(Dynamic Programming)__
 * [Lv. 3] N으로 표현 : Expressed_as_N.py
