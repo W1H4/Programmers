@@ -34,6 +34,7 @@ __그래프(Graph)__
 
 __정렬(Sorting)__
 * [Lv. 2] 가장 큰 수 : Biggest_Number.py
+* [Lv. 2] H-Index : H-Index.py
 
 __완전탐색(Exhaustive Search)__
 * [Lv. 2] 소수 찾기 : Find_prime_number.py
