@@ -10,6 +10,7 @@ __해시(Hash)__
 __스택/큐(Stack/Queue)__
 * [Lv. 2] 기능개발 : Function_development.py
 * [Lv. 2] 프린터 : Printer.py
+* [Lv. 2] 다리를 지나는 트럭 : Truck_crossing_the_bridge.py
 
 __힙(Heap)__
 * [Lv. 2] 더 맵게 : More_spicy.py
