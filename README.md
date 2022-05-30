@@ -38,6 +38,7 @@ __정렬(Sorting)__
 
 __완전탐색(Exhaustive Search)__
 * [Lv. 2] 소수 찾기 : Find_prime_number.py
+* [Lv. 2] 카펫 : Carpet.py
 
 __탐욕법(Greedy)__
 * [Lv. 2] 조이스틱 : Joystick.py
