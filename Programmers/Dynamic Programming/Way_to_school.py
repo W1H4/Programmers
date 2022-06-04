@@ -11,7 +11,7 @@ def solution(m, n, puddles):
                 elif y == 0:
                     m_n_list[y][x] = m_n_list[y][x - 1]
                 else:
-                    m_n_list[y][x] = (m_n_list[y - 1][x]%1000000007 + m_n_list[y][x - 1]%1000000007)%1000000007
+                    m_n_list[y][x] = (m_n_list[y - 1][x] + m_n_list[y][x - 1]) % 1000000007
 
     return m_n_list[-1][-1]
 
