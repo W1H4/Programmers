@@ -42,6 +42,7 @@ __완전탐색(Exhaustive Search)__
 
 __탐욕법(Greedy)__
 * [Lv. 2] 조이스틱 : Joystick.py
+* [Lv. 2] 큰 수 만들기 : Make_big_number.py
 
 ---
 # KAKAO BLIND RECRUITMENT
