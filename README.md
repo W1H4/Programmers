@@ -20,6 +20,7 @@ __힙(Heap)__
 __동적계획법(Dynamic Programming)__
 * [Lv. 3] N으로 표현 : Expressed_as_N.py
 * [Lv. 3] 정수 삼각형 : Integer_triangle.py
+* [Lv. 3] 등굣길 : Way_to_school.py
 
 __깊이/너비 우선 탐색(DFS/BFS)__
 * [Lv. 2] 타겟 넘버 : Target_number.py
