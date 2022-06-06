@@ -61,6 +61,7 @@ __2019__
 
 __2018__   
 * [Lv. 3] [1차] 추석 트래픽 : Chuseok_traffic.py
+* [Lv. 2] [1차] 뉴스 클러스터링 : News_cluster.py
 
 ---
 # Dev-Matching
