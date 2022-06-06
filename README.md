@@ -51,6 +51,7 @@ __탐욕법(Greedy)__
 __2021__   
 * [Lv. 1] 신규 아이디 추천 : New_id_recommend.py
 * [Lv. 2] 메뉴 리뉴얼 : Menu_renewal.py
+* [Lv. 2] 거리두기 확인하기 : Check_the_distance.py
 
 __2020__   
 * [Lv. 2] 문자열 압축 : String_compression.py
